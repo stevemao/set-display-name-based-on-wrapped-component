@@ -1,7 +1,6 @@
-import { compose } from 'ramda';
-import { wrapDisplayName, setDisplayName } from 'recompose';
+const { wrapDisplayName, setDisplayName, compose } = require('recompose');
 
-export default compose(
+module.exports = compose(
   setDisplayName,
   wrapDisplayName,
 );
