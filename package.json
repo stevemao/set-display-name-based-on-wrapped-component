@@ -1,6 +1,6 @@
 {
   "name": "set-display-name-based-on-wrapped-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Set display name for higher order components",
   "main": "index.js",
   "repository": "https://github.com/stevemao/set-display-name-based-on-wrapped-component",
