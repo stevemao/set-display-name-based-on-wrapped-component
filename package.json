@@ -18,7 +18,7 @@
     "recompose": "^0.26.0"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "devDependencies": {
     "jest": "^21.2.1",
