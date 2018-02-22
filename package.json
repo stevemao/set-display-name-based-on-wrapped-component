@@ -14,7 +14,7 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {
+  "peerDependencies": {
     "recompose": "^0.26.0"
   },
   "engines": {
@@ -23,6 +23,7 @@
   "devDependencies": {
     "jest": "^21.2.1",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "recompose": "^0.26.0"
   }
 }
