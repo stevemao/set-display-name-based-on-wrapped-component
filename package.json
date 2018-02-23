@@ -2,7 +2,6 @@
   "name": "set-display-name-based-on-wrapped-component",
   "version": "2.0.0",
   "description": "Set display name for higher order components",
-  "main": "index.js",
   "repository": "https://github.com/stevemao/set-display-name-based-on-wrapped-component",
   "author": "Steve Mao",
   "license": "MIT",
